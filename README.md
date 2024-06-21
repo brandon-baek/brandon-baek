@@ -1,0 +1,3 @@
+- My name is Brandon Baek
+- I mainly use Python
+- I have a passion to learn as much as possible about Artificial Intelligence
