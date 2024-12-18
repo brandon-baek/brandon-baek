@@ -1,3 +1,23 @@
-- My name is Brandon Baek
-- I mainly use Python
-- I have a passion to learn as much as possible about Artificial Intelligence
+# I'm Brandon Baek 🤗
+
+## Personal Details
+- 14 years old
+- Korean-American
+- Aspire to be an AI/ML Engineer
+
+## Experience
+- Known Languages
+  - Python
+  - Java
+  - JavaScript
+  - C++
+  - Swift
+  - Dart
+  - HTML
+  - Lua
+  - Scratch
+- Experienced in Mobile Development
+  - Frameworks
+    - Flutter
+    - SwiftUI
+    - React Native
