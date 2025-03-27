@@ -1,7 +1,7 @@
 # I'm Brandon Baek 🤗
 
 ## Personal Details
-- 14 years old
+- 15 years old
 - Korean-American
 - Aspire to be an AI/ML Engineer
 
