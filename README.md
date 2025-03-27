@@ -16,7 +16,12 @@
   - HTML
   - Lua
   - Scratch
-- Experienced in Mobile Development
+- AI/ML & Data Science
+  - PyTorch
+  - Pandas
+  - Keras
+  - TensorFlow
+- Mobile Development
   - Frameworks
     - Flutter
     - SwiftUI
